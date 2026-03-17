@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mprompt"
-version = "0.1.0"
+version = "0.1.1"
 description = "mprompt is a CLI tool that generates prompts for your projects"
 readme = "README.md"
 requires-python = ">=3.12"
